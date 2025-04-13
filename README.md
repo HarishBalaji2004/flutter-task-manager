@@ -1,15 +1,16 @@
-# flutter-task-manager
-A Flutter-based app for managing tasks, enabling users to add, update, and delete tasks. The app features a smooth and intuitive UI/UX designed with Figma, real-time task updates with state management, and local storage for task persistence after app closure.  Technologies Used: Flutter, Dart, Figma, State Management, Local Storage.
-the followings are the structure of task manager
-├── android/
-├── ios/
-├── lib/
-├── linux/
-├── macos/
-├── web/
-├── windows/
-├── test/
-├── pubspec.yaml
-├── pubspec.lock
-├── .gitignore
-├── README.md
+# flutter_application_1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
